@@ -1,4 +1,4 @@
-@font-face {
+10:36 25/08/2026@font-face {
     font-family: "roboto";
     src: url("../fonts/Roboto-Regular.ttf") format("truetype");
 }
@@ -287,10 +287,9 @@ align-items: center;
 .containers-fluid .rows-responsive{
     width: 300px;
     padding: 0.8rem !important;
-    background-color: #fff;
 }
 
 .containers-fluid .rows-responsive .table tbody tr td .btn-sm{
-    background-color: #33c9b0 !important;
+    background-color: #1b7969 !important;
     padding: 6px 10px !important;
 }
