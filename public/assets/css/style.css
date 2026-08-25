@@ -291,5 +291,6 @@ align-items: center;
 }
 
 .containers-fluid .rows-responsive .table tbody tr td .btn-sm{
-    background-color: #a07b02 !important;
+    background-color: #33c9b0 !important;
+    padding: 6px 10px !important;
 }
